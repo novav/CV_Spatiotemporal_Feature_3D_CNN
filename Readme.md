@@ -1,6 +1,4 @@
----
-
-title: 3D-CNN
+```
 date: 2019-08-26 09:44:22
 tags: 
 - CNN 
@@ -10,9 +8,9 @@ tags:
 - Action Recognition
 - Video Classification
 - Spatiotemporal 
----
+```
 
-##  3D-CNN 方法
+##  3D-CNN Method
 
 |                      |        |           |
 | -------------------- | ------ | --------- |
@@ -35,7 +33,7 @@ tags:
 
 ----
 
-通用库
+General LIb:
 
 [ video model zoo (caffe2) ] https://github.com/facebookresearch/VMZ
 
@@ -53,7 +51,7 @@ Currently, this codebase supports the following models:
 
 [github pytorch] https://github.com/jfzhang95/pytorch-video-recognition
 
-3x3x3 卷积核
+3x3x3  Kernel
 
 ![img](CV_3D/v2-e51c8770654a1eb92f984e8cc2cf0cd8_hd.jpg)
 
